@@ -6,5 +6,4 @@
 
 ## Coding Agent
 
-- [课程视频与PPT]()
-- [课程仓库]()
+- [课程简介](/basic/coding-agent/)

@@ -1,9 +1,7 @@
 # 前后端 Track
 
 ## 前端
-- [课程视频与PPT]()
-- [课程仓库]()
+- [课程简介](/frontend-and-backend/frontend/)
 
 ## 后端
-- [课程视频与PPT]()
-- [课程仓库]()
+- [课程简介](/frontend-and-backend/backend/)

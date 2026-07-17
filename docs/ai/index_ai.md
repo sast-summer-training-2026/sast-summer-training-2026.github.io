@@ -1,25 +1,19 @@
 # AI Track
 
 ## AI Overview
-- [课程视频与PPT]()
-- [课程仓库]()
+- [课程简介](/ai/overview/)
 
 ## ML System
-- [课程视频与PPT]()
-- [课程仓库]()
+- [课程简介](/ai/ML/)
 
 ## LLM
-- [课程视频与PPT]()
-- [课程作业]()
+- [课程简介](/ai/LLM/)
 
 ## Harness
-- [课程视频与PPT]()
-- [课程仓库]()
+- [课程简介](/ai/harness/)
 
 ## Diffusion
-- [课程视频与PPT]()
-- [课程作业]()
+- [课程简介](/ai/diffusion/)
 
 ## Embodied AI
-- [课程视频与PPT]()
-- [课程仓库]()
+- [课程简介](/ai/embodied/)
