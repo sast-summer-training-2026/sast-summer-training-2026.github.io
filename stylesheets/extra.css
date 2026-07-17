@@ -1,0 +1,19 @@
+/* Track 索引页：标题可导航，但保持普通标题外观 */
+.md-typeset h2 a,
+.md-typeset h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.md-typeset h2 a:hover,
+.md-typeset h2 a:focus,
+.md-typeset h3 a:hover,
+.md-typeset h3 a:focus {
+  color: var(--md-accent-fg-color);
+  text-decoration: none;
+}
+
+.md-typeset h2 a:visited,
+.md-typeset h3 a:visited {
+  color: inherit;
+}
