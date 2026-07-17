@@ -1,7 +1,7 @@
 # 前后端 Track
 
-## 前端
+## [前端](/frontend-and-backend/frontend/)
 - [课程简介](/frontend-and-backend/frontend/)
 
-## 后端
+## [后端](/frontend-and-backend/backend/)
 - [课程简介](/frontend-and-backend/backend/)

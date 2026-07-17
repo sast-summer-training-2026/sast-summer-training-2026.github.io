@@ -1,19 +1,19 @@
 # AI Track
 
-## AI Overview
+## [AI Overview](/ai/overview/)
 - [课程简介](/ai/overview/)
 
-## ML System
+## [ML System](/ai/ML/)
 - [课程简介](/ai/ML/)
 
-## LLM
+## [LLM](/ai/LLM/)
 - [课程简介](/ai/LLM/)
 
-## Harness
+## [Harness](/ai/harness/)
 - [课程简介](/ai/harness/)
 
-## Diffusion
+## [Diffusion](/ai/diffusion/)
 - [课程简介](/ai/diffusion/)
 
-## Embodied AI
+## [Embodied AI](/ai/embodied/)
 - [课程简介](/ai/embodied/)

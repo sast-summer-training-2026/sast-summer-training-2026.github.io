@@ -24,6 +24,9 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
+extra_css:
+  - stylesheets/extra.css
+
 extra_javascript:
   - 'https://cdn.jsdelivr.net/npm/mathjax@2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
   - 'https://cdn.jsdelivr.net/npm/mermaid@10.1.0/dist/mermaid.min.js'
