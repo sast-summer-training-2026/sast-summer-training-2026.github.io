@@ -1,5 +1,5 @@
 # Cyber Track
 
-## 课程内容
-- [课程视频与PPT]()
-- [课程仓库]()
+## [LLM 与网络安全](/cyber/cyber/)
+
+- [课程简介](/cyber/cyber/)

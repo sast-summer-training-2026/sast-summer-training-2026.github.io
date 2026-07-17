@@ -129,3 +129,5 @@ nav:
       - research/second/index.md
   - Cyber:
     - cyber/index_cyber.md
+    - LLM 与网络安全:
+      - basic/cyber/index.md
