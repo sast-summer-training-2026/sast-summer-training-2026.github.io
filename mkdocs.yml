@@ -95,6 +95,7 @@ nav:
     - basic/index_basic.md
     - CS 生存指南:
       - basic/survival-guide/index.md
+      - basic/survival-guide/cs-resources.md
     - Coding Agent:
       - basic/coding-agent/index.md
   - 前后端:
