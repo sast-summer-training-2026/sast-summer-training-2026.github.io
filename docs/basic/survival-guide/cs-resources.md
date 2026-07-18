@@ -10,6 +10,7 @@
 - [Harvard CS50](https://cs50.harvard.edu/x/)
 - [UC Berkeley CS61A](https://cs61a.org/)
 - [Stanford CS106B](https://web.stanford.edu/class/cs106b/)
+- [SAST Skill Docs](https://docs.net9.org)
 - [SAST Summer 2025](https://summer25.net9.org/)
 - [SAST Summer 2024](https://summer24.net9.org/)
 

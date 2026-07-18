@@ -6,4 +6,6 @@
 
 ## 课程讲义
 
+[PPT](/basic/survival-guide/2026-暑培-CS生存指南.pptx)
+
 [CS 领域常见学习资源入口](/basic/survival-guide/cs-resources)
