@@ -12,6 +12,6 @@
 
 - [课程讲义](/basic/coding-agent/vibecoding.pptx)
 
-- [Jupyter Notebook 代码示例](/basic/coding-agent/agent_loop.ipynb)
+- [Jupyter Notebook 代码示例](/basic/coding-agent/agent_loop.ipynb){: download="" }
 
 - [参考资源](/basic/coding-agent/#_2)
