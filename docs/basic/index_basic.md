@@ -14,4 +14,6 @@
 
 - [Jupyter Notebook 代码示例](/basic/coding-agent/agent_loop.ipynb){: download="" }
 
+- [课程视频](https://www.bilibili.com/video/BV135Kh6dERa)
+
 - [参考资源](/basic/coding-agent/#_2)
