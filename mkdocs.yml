@@ -105,6 +105,9 @@ nav:
     - frontend-and-backend/index_frontend-and-backend.md
     - 前端:
       - frontend-and-backend/frontend/index.md
+      - 课程讲稿: frontend-and-backend/frontend/content.md
+      - Prompt 模板: frontend-and-backend/frontend/prompt.md
+      - 课程视频: https://www.bilibili.com/video/BV1Rt3K6qEjE/
     - 后端:
       - frontend-and-backend/backend/index.md
   - AI:
