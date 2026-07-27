@@ -112,6 +112,8 @@ nav:
       - 课程视频: https://www.bilibili.com/video/BV1Rt3K6qEjE/
     - 后端:
       - frontend-and-backend/backend/index.md
+      - 课程讲稿: frontend-and-backend/backend/讲稿.pdf
+      - 课程视频: https://www.bilibili.com/video/BV137gZ6VE2j/
   - AI:
     - ai/index_ai.md
     - AI Overview:
