@@ -6,8 +6,8 @@
 
 ## 课程讲稿
 
-[前端课程讲稿](/frontend-and-backend/frontend/content.md)
+[前端课程讲稿](/frontend-and-backend/frontend/content)
 
 ## Prompt 模板
 
-[前端 Prompt 模板](/frontend-and-backend/frontend/prompt.md)
+[前端 Prompt 模板](/frontend-and-backend/frontend/prompt)
