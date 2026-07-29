@@ -118,6 +118,8 @@ nav:
     - ai/index_ai.md
     - AI Overview:
       - ai/overview/index.md
+      - 课程讲义: ai/overview/ai-overview-handout.pdf
+      - 课件: ai/overview/ai-overview-slides.pdf
     - ML System:
       - ai/ML/index.md
     - LLM:

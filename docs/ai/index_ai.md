@@ -1,7 +1,10 @@
 # AI Track
 
 ## [AI Overview](/ai/overview/)
-- [课程简介](/ai/overview/)
+
+- [课程讲义](/ai/overview/ai-overview-handout.pdf)
+
+- [课件](/ai/overview/ai-overview-slides.pdf)
 
 ## [ML System](/ai/ML/)
 - [课程简介](/ai/ML/)
