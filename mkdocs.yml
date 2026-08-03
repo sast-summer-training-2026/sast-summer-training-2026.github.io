@@ -122,6 +122,9 @@ nav:
       - 课件: ai/overview/ai-overview-slides.pdf
     - ML System:
       - ai/ML/index.md
+      - 课件: ai/ML/mlsys_intro_for_beginners.pptx
+      - 学习资源: ai/ML/#_2
+      - 课程视频: https://www.bilibili.com/video/BV1KwMQ6GEcp/
     - LLM:
       - ai/LLM/index.md
     - Harness:
