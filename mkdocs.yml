@@ -120,6 +120,7 @@ nav:
       - ai/overview/index.md
       - 课程讲义: ai/overview/ai-overview-handout.pdf
       - 课件: ai/overview/ai-overview-slides.pdf
+      - 课程视频: https://www.bilibili.com/video/BV1oH346AEwU/
     - ML System:
       - ai/ML/index.md
       - 课件: ai/ML/mlsys_intro_for_beginners.pptx

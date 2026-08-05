@@ -6,9 +6,13 @@
 
 - [课件](/ai/overview/ai-overview-slides.pdf)
 
+- [课程视频](https://www.bilibili.com/video/BV1oH346AEwU/)
+
 ## [ML System](/ai/ML/)
 
 - [课件](/ai/ML/mlsys_intro_for_beginners.pptx)
+
+- [课程视频](https://www.bilibili.com/video/BV1KwMQ6GEcp/)
 
 - [学习资源](/ai/ML/#_2)
 
