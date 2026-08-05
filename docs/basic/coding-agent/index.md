@@ -2,13 +2,13 @@
 
 本课程希望介绍 Coding Agent 的工作方式与使用边界。你将通过 Codex、Claude Code 等工具完成从需求澄清、项目阅读、任务拆分到代码修改、测试验证的完整闭环，并动手制作小型网页工具。课程同时讲解 agent loop、权限控制、上下文管理与结果验收，帮助你把“让 AI 写代码”变成可复现、可审查、可持续迭代的工作流。
 
-## 课程讲义
+## 课程材料
 
 [PPT](/basic/coding-agent/vibecoding.pptx)
 
 [Jupyter Notebook 代码示例](/basic/coding-agent/agent_loop.ipynb)
 
-## 参考资源
+## 学习资源
 
 [Anthropics Skills](https://docs.claude.com/en/docs/agents/skills)
 

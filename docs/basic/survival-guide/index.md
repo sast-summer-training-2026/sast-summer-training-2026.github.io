@@ -4,8 +4,10 @@
 
 注：本讲整体内容偏基础，不适合有一定计算机知识的同学参加。
 
-## 课程讲义
+## 课程材料
 
 [PPT](/basic/survival-guide/2026-暑培-CS生存指南.pptx)
+
+## 学习资源
 
 [CS 领域常见学习资源入口](/basic/survival-guide/cs-resources)
