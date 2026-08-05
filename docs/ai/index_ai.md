@@ -13,7 +13,12 @@
 - [学习资源](/ai/ML/#_2)
 
 ## [LLM](/ai/LLM/)
-- [课程简介](/ai/LLM/)
+
+- [课件](/ai/LLM/LLM-PPT.pdf)
+
+- [课程视频](https://www.bilibili.com/video/BV1MpMC6dEVn/)
+
+- [LLM 参考材料与补充阅读](/ai/LLM/LLM-参考材料与补充阅读)
 
 ## [Harness](/ai/harness/)
 - [课程简介](/ai/harness/)
