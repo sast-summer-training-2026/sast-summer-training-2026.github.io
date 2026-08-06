@@ -22,7 +22,7 @@
 
 - [课程视频](https://www.bilibili.com/video/BV1MpMC6dEVn/)
 
-- [LLM 参考材料与补充阅读](/ai/LLM/LLM-参考材料与补充阅读)
+- [LLM 参考材料与补充阅读（上）](/ai/LLM/LLM-参考材料与补充阅读（上）)
 
 ## [Harness](/ai/harness/)
 - [课程简介](/ai/harness/)

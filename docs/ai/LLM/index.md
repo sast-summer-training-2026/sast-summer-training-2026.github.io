@@ -8,8 +8,8 @@
 
 ## 课程材料
 
-[PPT](/ai/LLM/LLM-PPT.pdf)
+[PPT](/ai/LLM/暑培ppt_LLM上.pptx)
 
 ## 学习资源
 
-[LLM 参考材料与补充阅读](/ai/LLM/LLM-参考材料与补充阅读)
+[LLM 参考材料与补充阅读（上）](/ai/LLM/LLM-参考材料与补充阅读（上）)
