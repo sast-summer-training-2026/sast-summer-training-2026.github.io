@@ -133,6 +133,8 @@ nav:
       - 课程视频: https://www.bilibili.com/video/BV1MpMC6dEVn/
     - Harness:
       - ai/harness/index.md
+      - 讲义: ai/harness/harness讲义.md
+      - 课程视频: https://www.bilibili.com/video/BV18Uu36rEbu/
     - Diffusion:
       - ai/diffusion/index.md
     - Embodied AI:

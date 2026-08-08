@@ -25,7 +25,10 @@
 - [LLM 参考材料与补充阅读（上）](/ai/LLM/LLM-参考材料与补充阅读（上）)
 
 ## [Harness](/ai/harness/)
-- [课程简介](/ai/harness/)
+
+- [课程讲义](/ai/harness/harness讲义)
+
+- [课程视频](https://www.bilibili.com/video/BV18Uu36rEbu/)
 
 ## [Diffusion](/ai/diffusion/)
 - [课程简介](/ai/diffusion/)
