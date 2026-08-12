@@ -137,6 +137,8 @@ nav:
       - 课程视频: https://www.bilibili.com/video/BV18Uu36rEbu/
     - Diffusion:
       - ai/diffusion/index.md
+      - 讲义: ai/diffusion/Diffusion从入门到精通 刘青乐.pdf
+      - 课程视频: https://www.bilibili.com/video/BV1Eiui6oE9d/
     - Embodied AI:
       - ai/embodied/index.md
   - 科研:

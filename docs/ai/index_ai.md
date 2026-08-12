@@ -31,7 +31,10 @@
 - [课程视频](https://www.bilibili.com/video/BV18Uu36rEbu/)
 
 ## [Diffusion](/ai/diffusion/)
-- [课程简介](/ai/diffusion/)
+
+- [课程讲义](/ai/diffusion/Diffusion从入门到精通 刘青乐.pdf)
+
+- [课程视频](https://www.bilibili.com/video/BV1Eiui6oE9d/)
 
 ## [Embodied AI](/ai/embodied/)
 - [课程简介](/ai/embodied/)
