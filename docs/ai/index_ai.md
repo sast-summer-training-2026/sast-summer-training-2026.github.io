@@ -37,4 +37,5 @@
 - [课程视频](https://www.bilibili.com/video/BV1Eiui6oE9d/)
 
 ## [Embodied AI](/ai/embodied/)
-- [课程简介](/ai/embodied/)
+
+- [课程讲义](/ai/embodied/10_motus_story_lecture.pdf)

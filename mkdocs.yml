@@ -141,6 +141,7 @@ nav:
       - 课程视频: https://www.bilibili.com/video/BV1Eiui6oE9d/
     - Embodied AI:
       - ai/embodied/index.md
+      - 讲义: ai/embodied/10_motus_story_lecture.pdf
   - 科研:
     - research/index_research.md
     - 科研分享（一）:
